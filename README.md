@@ -1,4 +1,4 @@
-swatchbook
+SwatchBook
 ==========
 
 Interactive employee directory
