@@ -1,0 +1,356 @@
+/**** Isotope Layout Filtering ****/
+
+.isotope-item {
+	z-index: 2;
+}
+.isotope-hidden.isotope-item {
+	pointer-events: none;
+	z-index: 1;
+}
+/**** Isotope Layout CSS3 transitions ****/
+
+.isotope, .isotope .isotope-item {
+	-webkit-transition-duration: 0.8s;
+	-moz-transition-duration: 0.8s;
+	-ms-transition-duration: 0.8s;
+	-o-transition-duration: 0.8s;
+	transition-duration: 0.8s;
+}
+.isotope {
+	-webkit-transition-property: height, width;
+	-moz-transition-property: height, width;
+	-ms-transition-property: height, width;
+	-o-transition-property: height, width;
+	transition-property: height, width;
+}
+.isotope .isotope-item {
+	-webkit-transition-property: -webkit-transform, opacity;
+	-moz-transition-property:    -moz-transform, opacity;
+	-ms-transition-property:     -ms-transform, opacity;
+	-o-transition-property:      -o-transform, opacity;
+	transition-property:         transform, opacity;
+}
+/**** disabling Isotope CSS3 transitions ****/
+
+.isotope.no-transition, .isotope.no-transition .isotope-item, .isotope .isotope-item.no-transition {
+	-webkit-transition-duration: 0s;
+	-moz-transition-duration: 0s;
+	-ms-transition-duration: 0s;
+	-o-transition-duration: 0s;
+	transition-duration: 0s;
+}
+/* disable CSS transitions for containers with infinite scrolling*/
+.isotope.infinite-scrolling {
+	-webkit-transition: none;
+	-moz-transition: none;
+	-ms-transition: none;
+	-o-transition: none;
+	transition: none;
+}
+.fancybox-opened .fancybox-skin {
+	box-shadow:none !important;
+}
+/**** Base styles ****/
+
+div, span, object, iframe, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+html, body {
+	height: 100%;
+	padding:0;
+	margin:0;
+	background: #FFFFFF;
+}
+.item {
+	display: block;
+}
+.item img {
+	display: block;
+}
+.itemhover {
+background-image: (../img/overlay.jpg) color: #00425F;
+	opacity: 80%;
+}
+.rollover {
+	display: block;
+}
+.rolloverhover {
+	color: #00425F;
+	opacity: 80%;
+}
+h2 {
+	font-size:22px;
+	line-height:12px;
+	text-align:center;
+	font-weight: bold;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Arial, sans-serif;
+	margin:0;
+	color: #00426A;
+	vertical-align:middle;
+	padding-top:5px;
+}
+h3 {
+	font-size: 24px;
+	line-height: 1.1em;
+}
+ul, ol {
+	margin-left: 1.5em;
+}
+ a. a. code {
+ color: #FB4;
+ text-decoration: none;
+}
+a.hover, a.hover code {
+	color: #00425F;
+	opacity: 80%;
+}
+ a. active, a. active code {
+ color: #1FB;
+ background: black;
+}
+a img {
+	border: none;
+}
+blockquote {
+	padding-left: 1.0em;
+	margin-left: 1.0em;
+	border-left: 1px solid #333;
+	font-style: italic;
+}
+/**** Isotope layout styles ****/
+
+/* required for containers to inherit vertical size from window */
+
+#container {
+	border: 0px;
+	padding: 0;
+	margin: 0 0 0 158px;
+	width: auto;
+}
+.title {
+	margin: 0 auto;
+	background-image:url(../images/swatch_bg_header.png);
+	background-repeat:repeat-x;
+	background-position:center;
+	height:80px;
+	text-align:center;
+}
+.title2 {
+	border: 0px;
+	padding-bottom: 100px;
+	height:42px;
+	width:400px;
+	margin: 0 auto;
+	background-color:#FFFFFF;
+}
+#filters {
+	width: 150px;
+	position:fixed;
+	top:0;
+	left:0;
+}
+.element {
+	width: 100px;
+	height: 100px;
+	margin: 3px;
+	float: left;
+	position: relative;
+	background: #888;
+	color: #222;
+	-webkit-border-top-right-radius: 1.2em;
+	-moz-border-radius-topright: 1.2em;
+	border-top-right-radius: 1.2em;
+}
+.element * {
+	position: absolute;
+	margin: 0;
+}
+.element .symbol {
+	left: 0.2em;
+	top: 0.4em;
+	font-size: 3.8em;
+	line-height: 1.0em;
+	color: #FFF;
+}
+.element.large .symbol {
+	font-size: 4.5em;
+}
+.element.fake .symbol {
+	color: #000;
+}
+.element .name {
+	left: 0.5em;
+	bottom: 1.6em;
+	font-size: 1.05em;
+}
+.element .weight {
+	font-size: 0.9em;
+	left: 0.5em;
+	bottom: 0.5em;
+}
+.element .number {
+	font-size: 1.25em;
+	font-weight: bold;
+	color: hsla(0,0%,0%,.5);
+	right: 0.5em;
+	top: 0.5em;
+}
+.variable-sizes .element.width2 {
+	width: 200px;
+}
+.variable-sizes .element.height2 {
+	height: 200px;
+}
+.variable-sizes .element.width2.height2 {
+	font-size: 2.0em;
+}
+.element.large, .variable-sizes .element.large, .variable-sizes .element.large.width2.height2 {
+	font-size: 3.0em;
+	width: 300px;
+	height: 300px;
+	z-index: 100;
+}
+.clickable .element:hover {
+	cursor: pointer;
+}
+.clickable .element:hover h3 {
+	text-shadow:
+ 0 0 10px white, 0 0 10px white;
+}
+.clickable .element:hover h2 {
+	color: white;
+}
+/**** Infinite Scroll ****/
+
+#infscr-loading {
+	position: fixed;
+	text-align: center;
+	bottom: 30px;
+	left: 42%;
+	z-index: 100;
+	background: white;
+	background: hsla( 0, 0%, 100%, 0.9 );
+	padding: 20px;
+	color: #222;
+	font-size: 15px;
+	font-weight: bold;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+/* The Magnificent Clearfix: nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before, .clearfix:after {
+	content: "";
+	display: table;
+}
+.clearfix:after {
+	clear: both;
+}
+.clearfix {
+	zoom: 1;
+}
+/* ============ */
+/*** Stylings ***/
+/* ============ */
+.item>h3, .item>span {
+	display:none;
+}
+.profile {
+	height:150px;
+	width:150px;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.profile:hover {
+	background-position:0 -150px !important;
+}
+.profilemanage {
+	height:300px;
+	width:300px;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.profilemanage:hover {
+	background-position:0 -300px !important;
+}
+.item>a {
+	text-decoration:none;
+}
+.sortbutton {
+	background-color: #4F4F4F;
+	text-align: left;
+	font-weight: bold;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Arial, sans-serif;
+	height: 25px;
+	width: 150px;
+	color: #FFF;
+	font-size: 11px;
+	margin: 0px;
+	padding: 2px 2px 2px 8px;
+	border: none;
+}
+.sortbutton:hover {
+	background-color: #333;
+}
+.activebutton {
+	background-color: #05C3DE;
+}
+#title {
+	background-color: #05C3DE;
+	height: 75px;
+	padding: 75px 0px 0px 10px;
+	text-align: left;
+	margin-bottom: 8px;
+}
+#title h1 {
+	color: #FFF;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Arial, sans-serif;
+	font-size: 25px;
+	margin: 0px;
+	padding: 0px;
+}
+#title h1 a {
+	color: #FFF;
+	text-decoration:none;
+}
+#subtitle {
+	background-color: #D8D8D8;
+	height: 25px;
+	padding: 1px 11px;
+}
+#subtitle h2 {
+	text-align: left;
+	font-weight: bold;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Arial, sans-serif;
+	width: 150px;
+	color: #FFF;
+	font-size: 11px;
+	margin: 0px;
+	border: none;
+	text-transform: uppercase;
+}
+
+/*Media Queries*/
+@media only screen and (max-width : 899px), only screen and (max-device-width : 899px) {
+.item {
+	width: 150px;
+	height: 150px;
+}
+.profilemanage {
+	height:150px;
+	width:150px;
+}
+.profilemanage:hover {
+	background-position:0 -150px !important;
+}
+}
+button {
+	cursor:pointer;
+}

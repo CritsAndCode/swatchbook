@@ -1,0 +1,2220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Staff>
+	<Employee>
+		<Picture>images/andrews.jpg</Picture>
+		<Thumbnail>images/thumbs/andrews_susan.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Susan</FirstName>
+			<LastName>Andrews</LastName>
+			<Role>New Media Specialist</Role>
+			<Team>NewMedia</Team>
+			<Nickname>Miller and Snoozan</Nickname>
+			<Hometown>New Market, MD</Hometown>
+			<College>Towson University</College>
+		</Info>
+		<Quote>
+			<QuoteText>The best thing to hold onto in life is each other.</QuoteText>
+			<QuoteAuthor>Audrey Hepburn</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Anything on Bravo, Archer, Gossip Girl</TvShow>
+			<PetChild>Two fluffy cats-Sir Nigel and Ms. Weasley</PetChild>
+			<Song>The Underdog - Spoon</Song>
+			<Travel>Paris</Travel>
+			<Movie>A Good Year</Movie>
+			<Hobby>Yoga, running, cooking, design</Hobby>
+			<TimeOfYear>Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/arfaa.jpg</Picture>
+		<Thumbnail>images/thumbs/arfaa_jessica.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Jessica</FirstName>
+			<LastName>Aarfa</LastName>
+			<Role>Web Developer</Role>
+			<Team>WebContent</Team>
+			<Nickname></Nickname>
+			<Hometown>Bel Air, Maryland</Hometown>
+			<College>BA at Notre Dame of Maryland University, MS&#160;at George Washington University</College>
+		</Info>
+		<Quote>
+			<QuoteText>Nobody ever suspects the butterfly</QuoteText>
+			<QuoteAuthor>Bart Simpson</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Law and Order SVU</TvShow>
+			<PetChild>None</PetChild>
+			<Song>Midnight City by M83</Song>
+			<Travel>San Francisco, California</Travel>
+			<Movie>Liar Liar</Movie>
+			<Hobby>Anything artsy, biking</Hobby>
+			<TimeOfYear>Spring/Summer</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/atwall.jpg</Picture>
+		<Thumbnail>images/thumbs/atwall_suki.jpg</Thumbnail>
+		<IsManager>Yes</IsManager>
+		<Info>
+			<FirstName>Suki</FirstName>
+			<LastName>Atwall</LastName>
+			<Role>Marketing Services Manager, London</Role>
+			<Team>London Management</Team>
+			<Nickname>Sooks</Nickname>
+			<Hometown>Essex, UK</Hometown>
+			<College></College>
+		</Info>
+		<Quote>
+			<QuoteText>You only have to do a very few things right in your life so long as 
+					you don't do too many things wrong.</QuoteText>
+			<QuoteAuthor>Warren Buffet</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Friends</TvShow>
+			<PetChild>I have 2: Kiran (18) and&#160;Yasmin (13)</PetChild>
+			<Song>The Ketchup Song, Las&#160;Ketchup</Song>
+			<Travel>I LOVE Greece. The food, the beaches, the Greek music, 
+			the relaxed atmosphere, and the people. Also, Paris</Travel>
+			<Movie></Movie>
+			<Hobby></Hobby>
+			<TimeOfYear>Christmas, because this is the one time in the year 
+					that we always make the effort to get together as a family...
+					oh, the presents...I like that part too</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/barber.jpg</Picture>
+		<Thumbnail>images/thumbs/barber_brooke.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Brooke</FirstName>
+			<LastName>Barber</LastName>
+			<Role>Marketing Services Specialist</Role>
+			<Team>ProductionKatz</Team>
+			<Nickname>Grammy</Nickname>
+			<Hometown>Buffalo, NY</Hometown>
+			<College>Wells College</College>
+		</Info>
+		<Quote>
+			<QuoteText>It was the best of times, it was the worst of times, 
+			it was the age of wisdom, it was the age of foolishness...</QuoteText>
+			<QuoteAuthor>Charles Dickens</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>The Wire, Game of Thrones, Downton Abbey</TvShow>
+			<PetChild>Three daughters and two&#160;cats</PetChild>
+			<Song>I Will Survive, Gloria&#160;Gaynor</Song>
+			<Travel>Italy</Travel>
+			<Movie>Pride and Prejudice</Movie>
+			<Hobby>Reading, gardening, knitting,&#160;travel</Hobby>
+			<TimeOfYear>Autumn</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/barker.jpg</Picture>
+		<Thumbnail>images/thumbs/barker_rebecca.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Rebecca</FirstName>
+			<LastName>Barker</LastName>
+			<Role>Proofreading Editor</Role>
+			<Team>Proofreading</Team>
+			<Nickname>Beckster</Nickname>
+			<Hometown>Baltimore</Hometown>
+			<College>Towson University</College>
+		</Info>
+		<Quote>
+			<QuoteText>The best time to plant a tree is 20 years ago. The second best time is today.</QuoteText>
+			<QuoteAuthor>Chinese Proverb</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Fargo, Housewives of NYC, HGTV shows, reruns of 30 Rock</TvShow>
+			<PetChild>Stewie and Clarence (pooches)</PetChild>
+			<Song></Song>
+			<Travel>Greece and London, Paris, Istanbul</Travel>
+			<Movie>The Godfather</Movie>
+			<Hobby>Travel, genealogy, dining out, drinking wine, reading</Hobby>
+			<TimeOfYear>May!</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/bland.jpg</Picture>
+		<Thumbnail>images/thumbs/bland_chris.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Chris</FirstName>
+			<LastName>Bland</LastName>
+			<Role>Presentation Specialist</Role>
+			<Team>Presentations</Team>
+			<Nickname>Bland</Nickname>
+			<Hometown>Baltimore</Hometown>
+			<College>Towson State (yes, State)</College>
+		</Info>
+		<Quote>
+			<QuoteText>Mom! The meatloaf!</QuoteText>
+			<QuoteAuthor>Chazz Reinhold</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>The Following, Vikings</TvShow>
+			<PetChild>Yes</PetChild>
+			<Song>"Get It Together" Beastie Boys ft. Q-Tip</Song>
+			<Travel>Florida</Travel>
+			<Movie>Braveheart</Movie>
+			<Hobby>Yes</Hobby>
+			<TimeOfYear>Spring</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/border.jpg</Picture>
+		<Thumbnail>images/thumbs/border_heather.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Heather</FirstName>
+			<LastName>Border</LastName>
+			<Role>Production Designer</Role>
+			<Team>ProductionDesign</Team>
+			<Nickname>H Tram</Nickname>
+			<Hometown>Easton, PA</Hometown>
+			<College>Syracuse University</College>
+		</Info>
+		<Quote>
+			<QuoteText>It's supposed to be hard. If it wasn't hard, everyone would do it. 
+			The hard is what makes it great.</QuoteText>
+			<QuoteAuthor>Tom Hanks, A League of Their Own</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>BRAVO</TvShow>
+			<PetChild>Emily, Max, and Beasley the&#160;Bulldog</PetChild>
+			<Song>Eye of the Tiger</Song>
+			<Travel>Sicily... pretty much all of Italy</Travel>
+			<Movie>Harry Potter</Movie>
+			<Hobby>Snow skiing, running and ice&#160;cream</Hobby>
+			<TimeOfYear>Winter</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/borwick.jpg</Picture>
+		<Thumbnail>images/thumbs/borwick_julia.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Julia</FirstName>
+			<LastName>Borwick</LastName>
+			<Role>Ham and cheese with pickles. Oh: role...underachiever. Presentation Specialist, London.</Role>
+			<Team>London</Team>
+			<Nickname>Logo Lady</Nickname>
+			<Hometown>Can you steal my identity if I tell you this?</Hometown>
+			<College>Yep. Over-qualified, me.</College>
+		</Info>
+		<Quote>
+			<QuoteText>It's aspirational.</QuoteText>
+			<QuoteAuthor>Erol Fehim</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Any cookery programme. Sad, but true</TvShow>
+			<PetChild>Yes/No</PetChild>
+			<Song>Road to nowhere. Leaving on a jet plane. Invisible. 
+			We gotta get out of this place. Am sure there's a theme there...</Song>
+			<Travel>Anywhere with my best friend. Even England in the rain. Good thing, really...</Travel>
+			<Movie>Truly, Madly, Deeply. I know. A serious answer.</Movie>
+			<Hobby>Yes</Hobby>
+			<TimeOfYear>Christmas. I wish it could be every day.</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/buckley.jpg</Picture>
+		<Thumbnail>images/thumbs/buckley_catlin.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Catlin</FirstName>
+			<LastName>Buckley</LastName>
+			<Role>New Media Specialist</Role>
+			<Team>NewMedia</Team>
+			<Nickname>Cat</Nickname>
+			<Hometown>Summersville, WV</Hometown>
+			<College>West Virginia University, Regis University</College>
+		</Info>
+		<Quote>
+			<QuoteText>The difference between stupidity and genius is that genius has its limits.</QuoteText>
+			<QuoteAuthor>Albert Einstein</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Adventure Time</TvShow>
+			<PetChild>Dog, Oscar</PetChild>
+			<Song>It's The End Of The World As We Know It, R.E.M.</Song>
+			<Travel>SCUBA diving in Key Largo</Travel>
+			<Movie>Pootie Tang</Movie>
+			<Hobby>Camping, homebrew, wannabe&#160;sailor</Hobby>
+			<TimeOfYear>Summer</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/bream.jpg</Picture>
+		<Thumbnail>images/thumbs/bream_kim.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Kim</FirstName>
+			<LastName>Bream</LastName>
+			<Role>Proofreading Editor</Role>
+			<Team>Proofreading</Team>
+			<Nickname>Kim</Nickname>
+			<Hometown>Frederick, MD (currently call Gettysburg, PA, home)</Hometown>
+			<College>Shepherd University, University of Baltimore</College>
+		</Info>
+		<Quote>
+			<QuoteText>I can never remember quotes, so I've got nothing.</QuoteText>
+			<QuoteAuthor></QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Downton Abbey</TvShow>
+			<PetChild>Sons Christopher and Cameron, 6 farm cats, 1 indoor cat, 18 chickens of various breeds. 
+			All of the cats and chickens have names, too</PetChild>
+			<Song>Acres theme song</Song>
+			<Travel>My sons' school in West Chester, PA</Travel>
+			<Movie>Just about any chick flick and sports biopics and other history movies</Movie>
+			<Hobby>My chickens, knitting and crocheting, scrapbooking, reading, gardening, and shooting</Hobby>
+			<TimeOfYear>Summer…I love getting fresh fruits and veggies from our garden and local 
+					orchards and canning and freezing food for the rest of the year. The chicks I raise in the 
+					spring also start laying their first eggs.</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/case.jpg</Picture>
+		<Thumbnail>images/thumbs/case_amy.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Amy</FirstName>
+			<LastName>Case</LastName>
+			<Role>Enterprise Video Production Quality Coordinator</Role>
+			<Team>Video</Team>
+			<Nickname>Space Case, basket case, six-pack...</Nickname>
+			<Hometown>Fennimore, Wisconsin</Hometown>
+			<College>UWMilwaukee, Milwaukee Area Technical College, 
+			Southwestern Wisconsin Technical College</College>
+		</Info>
+		<Quote>
+			<QuoteText>Listen, do you smell something?</QuoteText>
+			<QuoteAuthor>Ghostbusters</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>The Walking Dead</TvShow>
+			<PetChild>Yes. 2 and 2</PetChild>
+			<Song>Back in Black, AC/DC</Song>
+			<Travel>Anywhere really remote with water and food</Travel>
+			<Movie>I don’t really have a “favorite” because there is always something 
+					really cool coming out, but if I had to pick something I’d go back and re-watch today I’d say maybe Predators, 
+					Pitch Black, Ghostbusters, Gone with the Wind, Toy Story, Sleeping Beauty, Shrek (1), Indiana Jones and the Temple of Doom, 
+					Monty Python and the Holy Grail… Basically something with either a lot of action or something silly although… Life is Beautiful 
+					was powerful as well as City of God… the list is just&#160;endless.</Movie>
+			<Hobby>Writing, reading trashy romance novels, hiking</Hobby>
+			<TimeOfYear>Autumn</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/coleman.jpg</Picture>
+		<Thumbnail>images/thumbs/coleman_sarah.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Sarah</FirstName>
+			<LastName>Coleman</LastName>
+			<Role>Coordinator, Proofreading Editor</Role>
+			<Team>Proofreading</Team>
+			<Nickname></Nickname>
+			<Hometown>Harrisonburg, VA</Hometown>
+			<College>Marymount University; University of&#160;Richmond</College>
+		</Info>
+		<Quote>
+			<QuoteText>...so I got that goin' for me, which is nice.</QuoteText>
+			<QuoteAuthor>Carl Spackler</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Downton Abbey</TvShow>
+			<PetChild>Daughter, Catherine; dog, George; and a 19-year-old cat who doesn't answer to any name</PetChild>
+			<Song></Song>
+			<Travel>Anywhere in the mountains</Travel>
+			<Movie></Movie>
+			<Hobby>Cooking, hiking, reading anything that is not related to investments or&#160;retirement</Hobby>
+			<TimeOfYear>Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/crabill.jpg</Picture>
+		<Thumbnail>images/thumbs/crabill_shannon.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Shannon</FirstName>
+			<LastName>Crabill</LastName>
+			<Role>New Media Specialist</Role>
+			<Team>NewMedia</Team>
+			<Nickname></Nickname>
+			<Hometown>Clinton, MD</Hometown>
+			<College>The Art Institute of Washington</College>
+		</Info>
+		<Quote>
+			<QuoteText>No quote</QuoteText>
+			<QuoteAuthor></QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>FRIENDS</TvShow>
+			<PetChild>One dog currently, named&#160;Hanna</PetChild>
+			<Song></Song>
+			<Travel>Tangier Island, VA</Travel>
+			<Movie>Zoolander</Movie>
+			<Hobby>Baking, Blogging, Cooking, Dancing, DIY, Graphic Design, Motorcycling, 
+			Movies, Papercraft, Photography, Typography, Social Media</Hobby>
+			<TimeOfYear>Spring</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/czapanskiy.jpg</Picture>
+		<Thumbnail>images/thumbs/czapanskiy_matt.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Matthew</FirstName>
+			<LastName>Czapanskiy</LastName>
+			<Role>Production Specialist</Role>
+			<Team>ProductionGarner</Team>
+			<Nickname>Spanky</Nickname>
+			<Hometown>Hicksville, NY</Hometown>
+			<College>UMBC</College>
+		</Info>
+		<Quote>
+			<QuoteText>Coffee should be as black as Hell, strong as death, and&#160;sweet as love.</QuoteText>
+			<QuoteAuthor>Turkish Proverb</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Puppy Bowl</TvShow>
+			<PetChild>Old English Sheepdog named Sherlock</PetChild>
+			<Song>Gangsta, N.W.A.</Song>
+			<Travel>Anywhere I&#160;go</Travel>
+			<Movie>Beyond the Valley of the Dolls</Movie>
+			<Hobby>Lots</Hobby>
+			<TimeOfYear>Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/destefano.jpg</Picture>
+		<Thumbnail>images/thumbs/destefano_brandon.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Brandon</FirstName>
+			<LastName>DeStefano</LastName>
+			<Role>Marketing Services Specialist</Role>
+			<Team>ProductionKatz</Team>
+			<Nickname>Minimas, Brando</Nickname>
+			<Hometown>Columbia, MD</Hometown>
+			<College>Frostburg (Undergrad), University of Baltimore (Grad School)</College>
+		</Info>
+		<Quote>
+			<QuoteText>I would rather die of thirst than drink from the cup&#160;of&#160;mediocrity.</QuoteText>
+			<QuoteAuthor>Unknown</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>The Simpsons</TvShow>
+			<PetChild>Nelson, the Wonder-Pup&#8212;a pit/terrier rescue</PetChild>
+			<Song>Prelude 12/21 by AFI</Song>
+			<Travel>Walt Disney&#160;World</Travel>
+			<Movie>The Shawshank Redepmtion</Movie>
+			<Hobby>Lettering comics, home brewing and traveling</Hobby>
+			<TimeOfYear>The NHL Playoffs</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/fehim.jpg</Picture>
+		<Thumbnail>images/thumbs/fehim_erol.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Erol</FirstName>
+			<LastName>Fehim</LastName>
+			<Role>Senior Presentations Specialist</Role>
+			<Team>London</Team>
+			<Nickname>Ezza</Nickname>
+			<Hometown>London</Hometown>
+			<College>Royal Holloway, University of London</College>
+		</Info>
+		<Quote>
+			<QuoteText>Don't believe any quotes pulled from the internet.</QuoteText>
+			<QuoteAuthor>Abraham Lincoln</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Dexter</TvShow>
+			<PetChild>1 12yr old daughter, and a black poodle</PetChild>
+			<Song>Simply the Best</Song>
+			<Travel>Cyprus</Travel>
+			<Movie>The Big Lebowski</Movie>
+			<Hobby>Football</Hobby>
+			<TimeOfYear>The thrill of anticipation just before quarter-end</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/fernandez.jpg</Picture>
+		<Thumbnail>images/thumbs/fernandez_rebeca.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Rebeca</FirstName>
+			<LastName>Fernandez</LastName>
+			<Role>Senior Proofreading Editor</Role>
+			<Team>Proofreading</Team>
+			<Nickname>Beca, Bex</Nickname>
+			<Hometown>Valladolid, Spain</Hometown>
+			<College>Susquehanna University/UMBC</College>
+		</Info>
+		<Quote>
+			<QuoteText>We are the music makers, And we are the dreamers&#160;of&#160;dreams</QuoteText>
+			<QuoteAuthor>Arthur O'Shaughnessy</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Walking Dead, Once Upon a Time, Orphan Black, True Blood</TvShow>
+			<PetChild>Joey, my peek-a-pom</PetChild>
+			<Song></Song>
+			<Travel>Hawaii</Travel>
+			<Movie></Movie>
+			<Hobby>Willy Wonka and the Chocolate Factory, the Wizard of Oz</Hobby>
+			<TimeOfYear></TimeOfYear>
+		</Survey>		
+	</Employee>
+		
+	<Employee>
+		<Picture>images/flather.jpg</Picture>
+		<Thumbnail>images/thumbs/flather_doug.jpg</Thumbnail>
+		<IsManager>Yes</IsManager>
+		<Info>
+			<FirstName>Doug</FirstName>
+			<LastName>Flather</LastName>
+			<Role>Manager, Enterprise Video Production</Role>
+			<Team>Management Video</Team>
+			<Nickname></Nickname>
+			<Hometown>Lanham, MD</Hometown>
+			<College>University of Maryland</College>
+		</Info>
+		<Quote>
+			<QuoteText>You can’t create great products with focus groups. Sometimes, people don’t know what they want until you show it to them.</QuoteText>
+			<QuoteAuthor>Steve Jobs</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>The Joy of Painting, with Bob&#160;Ross</TvShow>
+			<PetChild>Chihuahua and two daughters 19 and 23</PetChild>
+			<Song>Final Countdown, or Sail</Song>
+			<Travel>Orlando</Travel>
+			<Movie>Star Wars</Movie>
+			<Hobby>Musician (Keyboards, Chapman Stick), German Roadsters</Hobby>
+			<TimeOfYear>Summer</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/garner.jpg</Picture>
+		<Thumbnail>images/thumbs/garner_chris.jpg</Thumbnail>
+		<IsManager>Yes</IsManager>
+		<Info>
+			<FirstName>Chris</FirstName>
+			<LastName>Garner</LastName>
+			<Role>Marketing Services Supervisor</Role>
+			<Team>Management ProductionGarner WebContent</Team>
+			<Nickname>Garner, Topher</Nickname>
+			<Hometown>Westminster, MD</Hometown>
+			<College>Salisbury University</College>
+		</Info>
+		<Quote>
+			<QuoteText>Failure is the mother of success.</QuoteText>
+			<QuoteAuthor>From a fortune cookie</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Big Bang Theory</TvShow>
+			<PetChild>2 beautiful girls (Avery, 3 and Ashlyn, 1) and 2 cats (Halie and Linus)</PetChild>
+			<Song>Domination by Pantera</Song>
+			<Travel>OBX</Travel>
+			<Movie></Movie>
+			<Hobby></Hobby>
+			<TimeOfYear>Spring to Summer transition</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/greene.jpg</Picture>
+		<Thumbnail>images/thumbs/greene_steve.jpg</Thumbnail>
+		<IsManager>Yes</IsManager>
+		<Info>
+			<FirstName>Steve</FirstName>
+			<LastName>Greene</LastName>
+			<Role>Marketing Services Manager</Role>
+			<Team>Management</Team>
+			<Nickname></Nickname>
+			<Hometown>Yonkers, NY</Hometown>
+			<College>Towson University</College>
+		</Info>
+		<Quote>
+			<QuoteText>Hope is a good thing, maybe the best of things, and no good thing ever dies.</QuoteText>
+			<QuoteAuthor>Andy Dufresne</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Californication; Diners, Drive Ins, and Dives</TvShow>
+			<PetChild>3 kids: Dylan, Justin, Quinn; and 1 cat, Bert</PetChild>
+			<Song>Shoot to Thrill, AC/DC</Song>
+			<Travel>Outer Banks, NC</Travel>
+			<Movie>The Shawshank Redemption</Movie>
+			<Hobby>Running, playing sports</Hobby>
+			<TimeOfYear>Summer</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/griffith.jpg</Picture>
+		<Thumbnail>images/thumbs/griffith_jerome.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Jerome</FirstName>
+			<LastName>Griffith</LastName>
+			<Role>Production Specialist</Role>
+			<Team>ProductionKatz</Team>
+			<Nickname>Jerry, JJ, Matiyas</Nickname>
+			<Hometown>Arima, Trinidad and Tobago</Hometown>
+			<College>CCBC in Catonsville</College>
+		</Info>
+		<Quote>
+			<QuoteText>All our dreams can come true if we have the courage to pursue them.</QuoteText>
+			<QuoteAuthor>Walt Disney</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>24, Big Bang Theory, Scandal</TvShow>
+			<PetChild>Pets: Frodo and Arwen</PetChild>
+			<Song>Fly Away by Lenny Kravitz</Song>
+			<Travel>Washington DC area</Travel>
+			<Movie>Lord of the Rings Trilogy</Movie>
+			<Hobby>Art, Movies, Comic Books, Research, Writing</Hobby>
+			<TimeOfYear>Christmas</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/habtemariam.jpg</Picture>
+		<Thumbnail>images/thumbs/habtemariam_simon.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Simon</FirstName>
+			<LastName>Habtemariam</LastName>
+			<Role>Web Content Specialist</Role>
+			<Team>WebContent</Team>
+			<Nickname></Nickname>
+			<Hometown></Hometown>
+			<College></College>
+		</Info>
+		<Quote>
+			<QuoteText>No quote</QuoteText>
+			<QuoteAuthor></QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>No survey</TvShow>
+			<PetChild></PetChild>
+			<Song></Song>
+			<Travel></Travel>
+			<Movie></Movie>
+			<Hobby></Hobby>
+			<TimeOfYear></TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/harmon.jpg</Picture>
+		<Thumbnail>images/thumbs/harmon_kate.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Kate</FirstName>
+			<LastName>Harmon</LastName>
+			<Role>New Media Specialist</Role>
+			<Team>NewMedia</Team>
+			<Nickname></Nickname>
+			<Hometown>Bel Air, MD</Hometown>
+			<College>Towson University</College>
+		</Info>
+		<Quote>
+			<QuoteText>We keep moving forward, opening up new doors and doing new things, 
+			because we’re curious… and curiosity keeps leading us down new paths.</QuoteText>
+			<QuoteAuthor>Walt Disney</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Frasier</TvShow>
+			<PetChild>1 cat: Fran</PetChild>
+			<Song>I Wouldn't Change a Thing by Coke Escovedo</Song>
+			<Travel>Anywhere!</Travel>
+			<Movie>Clue</Movie>
+			<Hobby>Drawing, reading, and making animated gifs</Hobby>
+			<TimeOfYear>Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/harris.jpg</Picture>
+		<Thumbnail>images/thumbs/harris_sheri.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Sheri</FirstName>
+			<LastName>Harris</LastName>
+			<Role>Senior Proofreading Editor</Role>
+			<Team>Proofreading</Team>
+			<Nickname></Nickname>
+			<Hometown>Annapolis, MD</Hometown>
+			<College>Virginia Union University and University of&#160;Baltimore</College>
+		</Info>
+		<Quote>
+			<QuoteText>no quote</QuoteText>
+			<QuoteAuthor></QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>The Good Wife, Twilight Zone, and I Love Lucy reruns</TvShow>
+			<PetChild>Two sons and one German&#160;Shepherd</PetChild>
+			<Song></Song>
+			<Travel></Travel>
+			<Movie>The Shawshank Redemption</Movie>
+			<Hobby>Reading, crossword puzzles, watching MLB and NFL games</Hobby>
+			<TimeOfYear>Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+		
+	<Employee>
+		<Picture>images/heflin.jpg</Picture>
+		<Thumbnail>images/thumbs/heflin_emily.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Emily</FirstName>
+			<LastName>Heflin</LastName>
+			<Role>New Media Specialist</Role>
+			<Team>NewMedia</Team>
+			<Nickname></Nickname>
+			<Hometown>Manassas, VA</Hometown>
+			<College>Christopher Newport University</College>
+		</Info>
+		<Quote>
+			<QuoteText>So it goes</QuoteText>
+			<QuoteAuthor>Kurt Vonnegut</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow></TvShow>
+			<PetChild>A ball python, the nice thing about her is she never barks</PetChild>
+			<Song></Song>
+			<Travel></Travel>
+			<Movie>5secondfilms.com</Movie>
+			<Hobby>Local music at Sidebar, science fiction, and Magic: the Gathering</Hobby>
+			<TimeOfYear></TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/hoffen.jpg</Picture>
+		<Thumbnail>images/thumbs/hoffen_lauren.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Lauren</FirstName>
+			<LastName>Hoffen</LastName>
+			<Role>Presentation Specialist</Role>
+			<Team>Presentations</Team>
+			<Nickname></Nickname>
+			<Hometown>Baltimore, MD</Hometown>
+			<College>Rhode Island School of Design</College>
+		</Info>
+		<Quote>
+			<QuoteText>Talent is a pursued interest. Anything that you're willing to practice, you can do.</QuoteText>
+			<QuoteAuthor>Bob Ross</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Portlandia, Game of Thrones, House of Cards</TvShow>
+			<PetChild>No</PetChild>
+			<Song>Radioactive by Imagine&#160;Dragons</Song>
+			<Travel>New York City, Bethany Beach, DE, Tuscany, Italy</Travel>
+			<Movie>Beetlejuice</Movie>
+			<Hobby>Running, hiking, yoga, dancing, cooking, family, sight seeing, independent comics, 
+					artist boks, drawing, painting, and watching tutorials</Hobby>
+			<TimeOfYear>Summer</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/jenkins.jpg</Picture>
+		<Thumbnail>images/thumbs/jenkins_kelly.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Kelly</FirstName>
+			<LastName>Jenkins</LastName>
+			<Role>Presentation Specialist</Role>
+			<Team>Presentations</Team>
+			<Nickname>Kelly...or Kelly</Nickname>
+			<Hometown>Westminster, MD</Hometown>
+			<College>Villa Julie College, now Stevenson University</College>
+		</Info>
+		<Quote>
+			<QuoteText>Grit is the sustained passion and perseverance&#160;for&#160;long-term goals.</QuoteText>
+			<QuoteAuthor>Read somewhere in Runner's World magazine</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Dexter, It's Always Sunny, Chappelle Show</TvShow>
+			<PetChild>One fur baby, a pug/beagle&#160;mix</PetChild>
+			<Song>Apache Indian, "Boom Shack-A-Lak" from Dumb and Dumber</Song>
+			<Travel>I've never been there, but I bet Italy is nice</Travel>
+			<Movie>Old School</Movie>
+			<Hobby>Trail running and horses</Hobby>
+			<TimeOfYear>Spring and Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/kamau.jpg</Picture>
+		<Thumbnail>images/thumbs/kamau_jemima.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Jemima</FirstName>
+			<LastName>Kamau</LastName>
+			<Role>Marketing Services Specialist</Role>
+			<Team>ProductionGarner</Team>
+			<Nickname>Bobo</Nickname>
+			<Hometown>Nairobi</Hometown>
+			<College>CCBC Catonsville</College>
+		</Info>
+		<Quote>
+			<QuoteText>What goes around, comes around.</QuoteText>
+			<QuoteAuthor>Jemima</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>White Collar</TvShow>
+			<PetChild>N/A</PetChild>
+			<Song>Circle of Life</Song>
+			<Travel>Dubai, Florida</Travel>
+			<Movie>Pretty Woman</Movie>
+			<Hobby>Cooking, travel, reading, dancing</Hobby>
+			<TimeOfYear>Spring, Summer</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/kasdan.jpg</Picture>
+		<Thumbnail>images/thumbs/kasdan_aaron.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Aaron</FirstName>
+			<LastName>Kasdan</LastName>
+			<Role>Presentation Specialist</Role>
+			<Team>Presentations</Team>
+			<Nickname>Kasdan, Kaz-dog, K-Diddle</Nickname>
+			<Hometown>San Diego, CA</Hometown>
+			<College>Biola University</College>
+		</Info>
+		<Quote>
+			<QuoteText>You can come over as long as you don't flirt&#160;with&#160;my&#160;sons.</QuoteText>
+			<QuoteAuthor>My mom to my future wife, age 10</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Parks and Recreation</TvShow>
+			<PetChild>None now, none yet</PetChild>
+			<Song>Aaron's Party, by Aaron&#160;Carter</Song>
+			<Travel>Asheville, North Carolina</Travel>
+			<Movie>Casino Royale</Movie>
+			<Hobby>Music</Hobby>
+			<TimeOfYear>Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/katz.jpg</Picture>
+		<Thumbnail>images/thumbs/katz_jon.jpg</Thumbnail>
+		<IsManager>Yes</IsManager>
+		<Info>
+			<FirstName>Jon</FirstName>
+			<LastName>Katz</LastName>
+			<Role>Marketing Services Supervisor</Role>
+			<Team>Management ProductionKatz</Team>
+			<Nickname>Katz, Shabazz Bobo</Nickname>
+			<Hometown>The Island</Hometown>
+			<College>Terrapin Station</College>
+		</Info>
+		<Quote>
+			<QuoteText>There are three rules that I live by: never get less than twelve hours sleep; 
+					never play cards with a guy who has the same first name as a city; and never get 
+					involved with a woman with a tattoo of a dagger on her body. Now you stick to that, 
+					and everything else is cream cheese.</QuoteText>
+			<QuoteAuthor>Coach Finstock</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>The Venture Brothers</TvShow>
+			<PetChild>Not that I legally know of</PetChild>
+			<Song>Get Lucky, Daft Punk</Song>
+			<Travel>The Bus&#160;Yard</Travel>
+			<Movie>Step Brothers</Movie>
+			<Hobby>Playing Football, Gambling on Football, Playing Guitar, Gambling on Guitar</Hobby>
+			<TimeOfYear>1/4/14 @ 1:14AM</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/kozlowski.jpg</Picture>
+		<Thumbnail>images/thumbs/kozlowski_jim.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Jim</FirstName>
+			<LastName>Kozlowski</LastName>
+			<Role>Production Designer</Role>
+			<Team>ProductionDesign</Team>
+			<Nickname>Koz</Nickname>
+			<Hometown>Gotham</Hometown>
+			<College>Villa Julie College/Stevenson University</College>
+		</Info>
+		<Quote>
+			<QuoteText>(Arnold Voice)&#160;"Allow me to break the ice. My name is Freeze remember it well, for it is the 
+					chilling sound of your doom." (/Arnold Voice)</QuoteText>
+			<QuoteAuthor>Mr. Freeze</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Sons of Anarchy/Vikings</TvShow>
+			<PetChild>My daughter Jayden, and two cats Zoey and Spidey</PetChild>
+			<Song>Through the Fire and Flames by Dragon Force</Song>
+			<Travel>Relaxing on the Beach at Ocean City</Travel>
+			<Movie>The Dark Knight/Avengers</Movie>
+			<Hobby>Drawing, Comics, Reading, Movies, Anything with a compelling story</Hobby>
+			<TimeOfYear>Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/kraushofer.jpg</Picture>
+		<Thumbnail>images/thumbs/kraushofer_marie.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Marie</FirstName>
+			<LastName>Kraushofer</LastName>
+			<Role>Marketing Services Specialist</Role>
+			<Team>ProductionGarner</Team>
+			<Nickname></Nickname>
+			<Hometown>Manchester, MD</Hometown>
+			<College></College>
+		</Info>
+		<Quote>
+			<QuoteText>no quote</QuoteText>
+			<QuoteAuthor></QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>The Good Wife</TvShow>
+			<PetChild>Son-Ryan, 29, two dogs-Dusty and Bella</PetChild>
+			<Song></Song>
+			<Travel>Las Vegas</Travel>
+			<Movie></Movie>
+			<Hobby>Shopping and taking care of my pets</Hobby>
+			<TimeOfYear>Spring</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/laidlaw.jpg</Picture>
+		<Thumbnail>images/thumbs/laidlaw_rob.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Rob</FirstName>
+			<LastName>Laidlaw</LastName>
+			<Role>DPS Site Manager, London</Role>
+			<Team>London</Team>
+			<Nickname>Big R</Nickname>
+			<Hometown>Barnet, North London</Hometown>
+			<College>Barony University Scotland</College>
+		</Info>
+		<Quote>
+			<QuoteText>I feel sorry for people that don't drink because when they wake up in the morning
+					that's the best they're going to feel all day.</QuoteText>
+			<QuoteAuthor>Frank Sinatra</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Friday Night Lights, Deadliest&#160;Catch</TvShow>
+			<PetChild>2 Boys, 2 Cats, 1 Tortoise, Koi Carp, lots of rare tropical Catfish</PetChild>
+			<Song>I Vow to Thee My Country</Song>
+			<Travel>Bangkok Thailand</Travel>
+			<Movie>Jaws, Matrix 1</Movie>
+			<Hobby>Thai Boxing, Weightlifting, Boxing, Rare Catfish, Marine Biology, Environment</Hobby>
+			<TimeOfYear>Summer if we ever get one!</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/macari.jpg</Picture>
+		<Thumbnail>images/thumbs/macari_emily.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Emily</FirstName>
+			<LastName>Macari</LastName>
+			<Role>Production Designer</Role>
+			<Team>ProductionDesign</Team>
+			<Nickname>Em, Macky</Nickname>
+			<Hometown>Catonsville, MD</Hometown>
+			<College>Towson University</College>
+		</Info>
+		<Quote>
+			<QuoteText>Life's not about how to survive the storm, but learning to dance in the rain</QuoteText>
+			<QuoteAuthor>Unknown</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Survivor, Drop Dead Diva</TvShow>
+			<PetChild>None yet!</PetChild>
+			<Song>Slide by the Goo Goo Dolls</Song>
+			<Travel>Anywhere that has both the beach and the mountains</Travel>
+			<Movie>Remember the Titans</Movie>
+			<Hobby>Spending time outdoors, playing sports, hiking, relaxing in my hammock, reading, painting and design</Hobby>
+			<TimeOfYear>Fall, because of the colorful&#160;leaves</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/malizia.jpg</Picture>
+		<Thumbnail>images/thumbs/malizia_tina.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Tina</FirstName>
+			<LastName>Malizia</LastName>
+			<Role>Senior Production Designer</Role>
+			<Team>ProductionDesign</Team>
+			<Nickname>Tina</Nickname>
+			<Hometown>Gaithersburg, MD</Hometown>
+			<College>Savannah College of Art and Design</College>
+		</Info>
+		<Quote>
+			<QuoteText>I've always known I'd be a bank robber. So judge all you want, ladies and gentlemen. 
+					Because you never did become an astronaut.</QuoteText>
+			<QuoteAuthor>A Softer World</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Property Brothers</TvShow>
+			<PetChild>Cat, Diesel</PetChild>
+			<Song>Don't Stop Me Now, Queen</Song>
+			<Travel>Outer Banks or Cinque Terre</Travel>
+			<Movie>Terminator 2</Movie>
+			<Hobby>Soccer, Football, Snowboarding, Road and Mountain Biking</Hobby>
+			<TimeOfYear>Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/marcusjamie.jpg</Picture>
+		<Thumbnail>images/thumbs/marcus_jamie.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Jamie</FirstName>
+			<LastName>Marcus</LastName>
+			<Role>Marketing Services Specialist</Role>
+			<Team>ProductionKatz</Team>
+			<Nickname>James</Nickname>
+			<Hometown>Columbia, MD</Hometown>
+			<College>Colorado State University</College>
+		</Info>
+		<Quote>
+			<QuoteText>The ultimate measure of a man is not where he stands in moments of comfort and convenience, 
+					but where he stands at times of challenge and controversy.</QuoteText>
+			<QuoteAuthor>Martin Luther King, Jr.</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>RHOA, House Hunters, The Bachelor/Bachelorette</TvShow>
+			<PetChild>NO THANK YOU!</PetChild>
+			<Song>Just Fine, Mary J. Blige</Song>
+			<Travel>Pretty sure I haven't been there yet, but so far, Aruba</Travel>
+			<Movie>Remember the Titans, A Bronx Tale, Because I Said So</Movie>
+			<Hobby>Decorating, Football, Hiking</Hobby>
+			<TimeOfYear>Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/marcusjoe.jpg</Picture>
+		<Thumbnail>images/thumbs/marcus_joe.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Joe</FirstName>
+			<LastName>Marcus</LastName>
+			<Role>Desktop Specialist</Role>
+			<Team>ProductionKatz</Team>
+			<Nickname>Joe, Daddy</Nickname>
+			<Hometown>Harrisburg, PA</Hometown>
+			<College>University of Baltimore</College>
+		</Info>
+		<Quote>
+			<QuoteText>That which doesn't kill me, makes me stronger.</QuoteText>
+			<QuoteAuthor>Friedrich Nietzsche</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Breaking Bad, Magnum PI</TvShow>
+			<PetChild>Boy 7, Girl 4, 2 fish</PetChild>
+			<Song>Rocky theme</Song>
+			<Travel>Northern California</Travel>
+			<Movie>Best In Show, Rocky (again)</Movie>
+			<Hobby>Hiking, biking, beer tasting</Hobby>
+			<TimeOfYear>Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+	.isotope
+	<Employee>
+		<Picture>images/martinmarianne.jpg</Picture>
+		<Thumbnail>images/thumbs/martin_marianne.jpg</Thumbnail>
+		<IsManager>Yes</IsManager>
+		<Info>
+			<FirstName>Marianne</FirstName>
+			<LastName>Martin</LastName>
+			<Role>Marketing Services Manager</Role>
+			<Team>Management Proofreading</Team>
+			<Nickname>Mar</Nickname>
+			<Hometown>Eldersburg, MD</Hometown>
+			<College>Elon University</College>
+		</Info>
+		<Quote>
+			<QuoteText>Do or do not. There is no try.</QuoteText>
+			<QuoteAuthor>Yoda</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Pretty much everything on Bravo or HBO</TvShow>
+			<PetChild>13+ year old dog, Pugsy and 7 month year old girl, Violet</PetChild>
+			<Song>Anything by Jimmy Buffet</Song>
+			<Travel>Cayman Islands</Travel>
+			<Movie>The Departed</Movie>
+			<Hobby>Being outside, running/exercising, spending as much time as possible with my daughter</Hobby>
+			<TimeOfYear>Summer</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/martinmarisa.jpg</Picture>
+		<Thumbnail>images/thumbs/martin_marisa.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Marisa</FirstName>
+			<LastName>Martin</LastName>
+			<Role>Production Specialist</Role>
+			<Team>ProductionKatz</Team>
+			<Nickname></Nickname>
+			<Hometown>East Brunswick, NJ</Hometown>
+			<College>Loyola University Maryland</College>
+		</Info>
+		<Quote>
+			<QuoteText>There may be more beautiful times, but this one is ours...Let's do it with everything.</QuoteText>
+			<QuoteAuthor>Jean-Paul Sartre</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>New Girl, 30 Rock</TvShow>
+			<PetChild>Layla, my goofy mutt</PetChild>
+			<Song>Feelin' Alright, Joe Cocker</Song>
+			<Travel>Greece... so&#160;far</Travel>
+			<Movie>My Cousin Vinny</Movie>
+			<Hobby>Hockey (playing field, watching ice), yoga, traveling, painting, cooking, AIGA, the list goes on...</Hobby>
+			<TimeOfYear>Summer</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/meyers.jpg</Picture>
+		<Thumbnail>images/thumbs/meyers_scott.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Scott</FirstName>
+			<LastName>Meyers</LastName>
+			<Role>New Media Specialist</Role>
+			<Team>Video</Team>
+			<Nickname>Badger</Nickname>
+			<Hometown>Kensington, MD</Hometown>
+			<College>UMBC</College>
+		</Info>
+		<Quote>
+			<QuoteText>All you have to do is to decide what to do with the time given to you.</QuoteText>
+			<QuoteAuthor>Gandalf</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Seinfeld</TvShow>
+			<PetChild>Son, Caden, 5; Cat, Isabelle,&#160;14</PetChild>
+			<Song>Gangnam Style</Song>
+			<Travel>St. Maarten</Travel>
+			<Movie>Blade Runner and Jaws</Movie>
+			<Hobby>Hiking, running, biking, fishing, BBQ, film watching, photography, and working to better mankind</Hobby>
+			<TimeOfYear>Fall and Spring</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/milden.jpg</Picture>
+		<Thumbnail>images/thumbs/milden_antoniette.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Antoniette</FirstName>
+			<LastName>Milden</LastName>
+			<Role>Marketing Services Specialist</Role>
+			<Team>ProductionKatz</Team>
+			<Nickname>Toni</Nickname>
+			<Hometown>Townsend, VA</Hometown>
+			<College>Coppin State</College>
+		</Info>
+		<Quote>
+			<QuoteText>Be Impeccable with your Words</QuoteText>
+			<QuoteAuthor>Don Miguel Ruiz</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Blacklist HGTV</TvShow>
+			<PetChild>8 children</PetChild>
+			<Song>Stronger, Kelly Clarkson</Song>
+			<Travel>Long Island, New York</Travel>
+			<Movie>Snow Falling on Cedars (one of&#160;many)</Movie>
+			<Hobby>Reading</Hobby>
+			<TimeOfYear>Christmas</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/miles.jpg</Picture>
+		<Thumbnail>images/thumbs/miles_patrick.jpg</Thumbnail>
+		<IsManager>Yes</IsManager>
+		<Info>
+			<FirstName>Patrick</FirstName>
+			<LastName>Miles</LastName>
+			<Role>Marketing Services Manager</Role>
+			<Team>Management</Team>
+			<Nickname></Nickname>
+			<Hometown>Frederick, MD</Hometown>
+			<College>Towson University</College>
+		</Info>
+		<Quote>
+			<QuoteText>Management is doing things right; leadership is doing the right things.</QuoteText>
+			<QuoteAuthor>Unknown</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Late Night with Jimmy Fallon</TvShow>
+			<PetChild>I have a 4 year old daughter,&#160;Maggie</PetChild>
+			<Song>"Gonna Fly Now" theme from Rocky</Song>
+			<Travel>Cape Cod, Massachusetts</Travel>
+			<Movie>The Blind Side</Movie>
+			<Hobby>Spending time with my family, gardening, home projects</Hobby>
+			<TimeOfYear>Love the change of season and I like them all</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/mills.jpg</Picture>
+		<Thumbnail>images/thumbs/mills_randi.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Randi</FirstName>
+			<LastName>Mills</LastName>
+			<Role>Marketing Services Specialist</Role>
+			<Team>ProductionKatz</Team>
+			<Nickname>Bug</Nickname>
+			<Hometown>Monrovia, MD</Hometown>
+			<College>Bradley Academy for the Visual Arts</College>
+		</Info>
+		<Quote>
+			<QuoteText>Life beats down and crushes the soul and art reminds you that you have one.</QuoteText>
+			<QuoteAuthor>Stella Adler</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>The Walking Dead</TvShow>
+			<PetChild>One darling daughter named&#160;Natalie</PetChild>
+			<Song>Happy by Pharrell</Song>
+			<Travel>Fort Lewis Lodge in Millboro, VA; Cape Cod</Travel>
+			<Movie>The Shawshank Redemption; Forest Gump</Movie>
+			<Hobby>Anything with Natalie, fine arts, photography, road trips, camping</Hobby>
+			<TimeOfYear>Spring</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/moore.jpg</Picture>
+		<Thumbnail>images/thumbs/moore_vincent.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Vince</FirstName>
+			<LastName>Moore</LastName>
+			<Role>New Media Specialist</Role>
+			<Team>NewMedia</Team>
+			<Nickname>Uncle Vince</Nickname>
+			<Hometown>Elkton, MD</Hometown>
+			<College>UMBC</College>
+		</Info>
+		<Quote>
+			<QuoteText>A bear in his natural habitat. A Studebaker.</QuoteText>
+			<QuoteAuthor>Fozzie Bear</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Archer, The X-Files</TvShow>
+			<PetChild>1 cat, Pixel</PetChild>
+			<Song>Holding Out For a Hero, Bonnie Tyler</Song>
+			<Travel>Camping weekend with friends</Travel>
+			<Movie>The Terminator</Movie>
+			<Hobby>Coding, Professional Gaming, Collecting video games/consoles, Camping, Soccer, Football, Movies</Hobby>
+			<TimeOfYear>Spring/Summer</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/mowry.jpg</Picture>
+		<Thumbnail>images/thumbs/mowry_allison.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Allison</FirstName>
+			<LastName>Mowry</LastName>
+			<Role>Production Designer</Role>
+			<Team>ProductionDesign</Team>
+			<Nickname>Allie, Alicen, Al</Nickname>
+			<Hometown>Perry Hall, MD</Hometown>
+			<College>UMBC</College>
+		</Info>
+		<Quote>
+			<QuoteText>Turn your wounds into wisdom.</QuoteText>
+			<QuoteAuthor>Oprah Winfrey</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Arrested Development</TvShow>
+			<PetChild>Pug named Bijou</PetChild>
+			<Song>Bring 'Em Out, T.I.</Song>
+			<Travel>Grand Canyon, AZ</Travel>
+			<Movie>Mean Girls</Movie>
+			<Hobby>Hiking, Kayaking, Painting, the&#160;O's</Hobby>
+			<TimeOfYear>Winter</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/murphy.jpg</Picture>
+		<Thumbnail>images/thumbs/murphy_sharon.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Sharon</FirstName>
+			<LastName>Murphy</LastName>
+			<Role>Product Compliance Specialist</Role>
+			<Team>Compliance</Team>
+			<Nickname>None, but please don't call me Shannon</Nickname>
+			<Hometown>San Diego, CA/Eldersburg, MD</Hometown>
+			<College>Towson University</College>
+		</Info>
+		<Quote>
+			<QuoteText>OMG</QuoteText>
+			<QuoteAuthor>Me</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Bachelor/Bachelorette</TvShow>
+			<PetChild>Samuel, a 2 year-old human; Maxwell, a 4-year old human; and Bella, a 9-year old chocolate lab</PetChild>
+			<Song>Gza, Liquid Swords or Madonna, Material Girl</Song>
+			<Travel>Costa Rica, Arenal and Manuel Antonio are my favorite spots</Travel>
+			<Movie>The Sound of Music (the original one, NOT Carrie Underwood's version)</Movie>
+			<Hobby>Running, Shopping, design, typography, color. I'm also a collector of beautiful stationary and wrapping paper</Hobby>
+			<TimeOfYear>Summer, the hotter the&#160;better</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/nardozzi.jpg</Picture>
+		<Thumbnail>images/thumbs/nardozzi_lindsay.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Lindsay</FirstName>
+			<LastName>Nardozzi</LastName>
+			<Role>Senior Proofreading Editor</Role>
+			<Team>Proofreading</Team>
+			<Nickname>Lindz</Nickname>
+			<Hometown>Ellicott City, MD</Hometown>
+			<College>Washington College in Chestertown, MD</College>
+		</Info>
+		<Quote>
+			<QuoteText>I don't have one</QuoteText>
+			<QuoteAuthor>Me</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>@midnight</TvShow>
+			<PetChild>Two cats: Buster and Meems</PetChild>
+			<Song>Intergalactic by Beastie&#160;Boys</Song>
+			<Travel>Maui or Disney World</Travel>
+			<Movie>Twister</Movie>
+			<Hobby>Eating food, working out, cats, hockey, reading</Hobby>
+			<TimeOfYear>Spring and Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/oakes.jpg</Picture>
+		<Thumbnail>images/thumbs/oakes_dennis.jpg</Thumbnail>
+		<IsManager>Yes</IsManager>
+		<Info>
+			<FirstName>Dennis</FirstName>
+			<LastName>Oakes</LastName>
+			<Role>Marketing Services Supervisor</Role>
+			<Team>Management Presentations</Team>
+			<Nickname>Ray Ray</Nickname>
+			<Hometown>Bmore</Hometown>
+			<College>Towson University</College>
+		</Info>
+		<Quote>
+			<QuoteText>All art is but dirtying the paper delicately.</QuoteText>
+			<QuoteAuthor>John Ruskin, The Elements of Drawing</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Good Times</TvShow>
+			<PetChild>1 each</PetChild>
+			<Song>"Superfly," Curtis Mayfield and also "Give Me Shelter," Rolling Stones</Song>
+			<Travel>Backyard</Travel>
+			<Movie>Goodfellas</Movie>
+			<Hobby>Illustration</Hobby>
+			<TimeOfYear>Spring</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/oliveros.jpg</Picture>
+		<Thumbnail>images/thumbs/oliveros_ron.jpg</Thumbnail>
+		<IsManager>Yes</IsManager>
+		<Info>
+			<FirstName>Ron</FirstName>
+			<LastName>Oliveros</LastName>
+			<Role>Marketing Services Supervisor; Diaper Ninja</Role>
+			<Team>Management ProductionDesign</Team>
+			<Nickname>Yes, many of them</Nickname>
+			<Hometown>Lancaster, PA</Hometown>
+			<College>The Millersville University of Pennsylvania</College>
+		</Info>
+		<Quote>
+			<QuoteText>Quiz night is bedlam. People are throwing crumpled up papers everywhere and shouting. It's&#160;a&#160;right&#160;ruckus.</QuoteText>
+			<QuoteAuthor>Gil Jawetz</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Scooby's All-Star Laff-A-Lympics</TvShow>
+			<PetChild>Twins, Emma and Sophia</PetChild>
+			<Song>Rapper's Delight, Sugar Hill&#160;Gang</Song>
+			<Travel>Florida Keys</Travel>
+			<Movie>Tie: Airplane! and History of the World: Part 1</Movie>
+			<Hobby>Vacation</Hobby>
+			<TimeOfYear>Football Season</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/parmar.jpg</Picture>
+		<Thumbnail>images/thumbs/parmar_meg.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Meg</FirstName>
+			<LastName>Parmar</LastName>
+			<Role>New Media Specialist</Role>
+			<Team>NewMedia</Team>
+			<Nickname>Meg</Nickname>
+			<Hometown>Surat, India</Hometown>
+			<College>Girls Polytechnic</College>
+		</Info>
+		<Quote>
+			<QuoteText>Be the change that you wish to see in the world</QuoteText>
+			<QuoteAuthor>Mahatma Gandhi</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Resurrection</TvShow>
+			<PetChild>Two Boys</PetChild>
+			<Song>James Bond</Song>
+			<Travel>Bahamas</Travel>
+			<Movie>Cast Away</Movie>
+			<Hobby>Sketching</Hobby>
+			<TimeOfYear>Spring</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/pasternak.jpg</Picture>
+		<Thumbnail>images/thumbs/pasternak_jennifer.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Jennifer</FirstName>
+			<LastName>Pasternak</LastName>
+			<Role>Senior Production Specialist</Role>
+			<Team>ProductionKatz</Team>
+			<Nickname>Jen</Nickname>
+			<Hometown>Baltimore, MD</Hometown>
+			<College>Undergrad: Shippensburg University; Grad: Notre Dame of Maryland University</College>
+		</Info>
+		<Quote>
+			<QuoteText>Playing dress-up begins at age five and never truly&#160;ends.</QuoteText>
+			<QuoteAuthor>Kate Spade</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>True Blood</TvShow>
+			<PetChild>No and/or no</PetChild>
+			<Song>Tommy Tutone, 867-5309/Jenny</Song>
+			<Travel>Ft. Lauderdale, FL</Travel>
+			<Movie>The Wizard of Oz</Movie>
+			<Hobby>Bowling, Skeeball league, and&#160;vacationing</Hobby>
+			<TimeOfYear>Spring</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/payne.jpg</Picture>
+		<Thumbnail>images/thumbs/payne_kelly.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Kelly</FirstName>
+			<LastName>Payne</LastName>
+			<Role>Marketing Services Specialist</Role>
+			<Team>ProductionKatz</Team>
+			<Nickname>Kel, KP</Nickname>
+			<Hometown>Hamilton, Ohio</Hometown>
+			<College>University of Cincinnati and University of&#160;Louisville</College>
+		</Info>
+		<Quote>
+			<QuoteText>no quote</QuoteText>
+			<QuoteAuthor></QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Games of Thrones, True Detective, Downton Abbey, An Idiot Abroad</TvShow>
+			<PetChild>Neither</PetChild>
+			<Song></Song>
+			<Travel>How about my wish list: Australia/New Zealand, Spain, Greece and Italy</Travel>
+			<Movie>Pride and Prejudice</Movie>
+			<Hobby>Boating, SUPing, kayaking, drinking good wine</Hobby>
+			<TimeOfYear>Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/penniman.jpg</Picture>
+		<Thumbnail>images/thumbs/penniman_cari.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Cari</FirstName>
+			<LastName>Penniman</LastName>
+			<Role>Senior Presentation Specialist</Role>
+			<Team>ProductionKatz</Team>
+			<Nickname>Carebear, Belches</Nickname>
+			<Hometown>Davidsonville, MD</Hometown>
+			<College>Villa Julie College (now Stevenson University)</College>
+		</Info>
+		<Quote>
+			<QuoteText>We're not going to panic over one game.</QuoteText>
+			<QuoteAuthor>Charles Barkley</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Diners, Drive-ins, and Dives</TvShow>
+			<PetChild>2 dogs: Bugatti and Maserati, 2 cats: Ferrari and Lamborghini</PetChild>
+			<Song>Superwoman by Lil' Mo featuring Fabolous</Song>
+			<Travel>Naples, FL and Las Vegas, NV</Travel>
+			<Movie>We Are the Millers, This is 40, All of the Fast and Furious movies</Movie>
+			<Hobby>Softball, football, kickball, kickboxing, running, anything outside</Hobby>
+			<TimeOfYear>Spring into Summer</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/phillips.jpg</Picture>
+		<Thumbnail>images/thumbs/phillips_jim.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>James Lee</FirstName>
+			<LastName>Phillips</LastName>
+			<Role>Marketing Services Specialist</Role>
+			<Team>ProductionKatz</Team>
+			<Nickname>Jim, Steamroller</Nickname>
+			<Hometown>Baltimore</Hometown>
+			<College>Frostburg, CCBC, UBalt</College>
+		</Info>
+		<Quote>
+			<QuoteText>Never give in, never give in, never; never; never; never give up-in nothing, 
+					great or small, large or petty&#8212;never give in except to convictions of honor and good sense.</QuoteText>
+			<QuoteAuthor>Winston Churchill</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>The Walking Dead</TvShow>
+			<PetChild>Yep</PetChild>
+			<Song>YMCA</Song>
+			<Travel>Outer Banks, NC</Travel>
+			<Movie>The Dark Knight</Movie>
+			<Hobby>Sports/outdoor fun, activities</Hobby>
+			<TimeOfYear>Fall, Spring is a close second</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/porche.jpg</Picture>
+		<Thumbnail>images/thumbs/porche_tamara.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Tamara</FirstName>
+			<LastName>Porche</LastName>
+			<Role>Senior Kit Specialist</Role>
+			<Team>ProductionGarner</Team>
+			<Nickname>Tammi, T, Pinkie, Porchey</Nickname>
+			<Hometown>Clinton, MD</Hometown>
+			<College>Loyola University Maryland</College>
+		</Info>
+		<Quote>
+			<QuoteText>Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, 
+					while imagination embraces the entire world, and all there ever will be to know and&#160;understand.</QuoteText>
+			<QuoteAuthor>Albert Einstein</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Game of Thrones</TvShow>
+			<PetChild>Elvis and Flynn</PetChild>
+			<Song>Shove It by Santigold</Song>
+			<Travel>any big city</Travel>
+			<Movie>Stand By Me</Movie>
+			<Hobby>Making plans for world&#160;domination</Hobby>
+			<TimeOfYear>When snow is not on the&#160;ground</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+		<Employee>
+		<Picture>images/rhinehart.jpg</Picture>
+		<Thumbnail>images/thumbs/rhinehart_nick.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Nick</FirstName>
+			<LastName>Rhinehart</LastName>
+			<Role>Web Content Specialist</Role>
+			<Team>WebContent</Team>
+			<Nickname></Nickname>
+			<Hometown>Linthicum, MD</Hometown>
+			<College>Marymount University, Arlington VA</College>
+		</Info>
+		<Quote>
+			<QuoteText>no quote</QuoteText>
+			<QuoteAuthor></QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>The best TV show ever is the&#160;Sopranos</TvShow>
+			<PetChild>Two Border Collies, Colby and Brie</PetChild>
+			<Song>Jumpin' Jack Flash, Rolling&#160;Stones</Song>
+			<Travel>The Outer Banks, NC</Travel>
+			<Movie>Toss-up between Goodfellas and True Romance</Movie>
+			<Hobby>I’ve played guitar for 13 years and I’m a big music nerd, 
+					beer nerd (homebrewers, stand up!) and also enjoy reading books.</Hobby>
+			<TimeOfYear>Anytime will do</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	
+	<Employee>
+		<Picture>images/roloff.jpg</Picture>
+		<Thumbnail>images/thumbs/roloff_kristin.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Kristin</FirstName>
+			<LastName>Roloff</LastName>
+			<Role>Senior Proofreading Editor</Role>
+			<Team>Proofreading</Team>
+			<Nickname>Kris</Nickname>
+			<Hometown>Pylesville, MD</Hometown>
+			<College>UMBC</College>
+		</Info>
+		<Quote>
+			<QuoteText>Be who you are and say what you feel, 
+			because those who mind don't matter, and those who matter don't&#160;mind.</QuoteText>
+			<QuoteAuthor>Dr. Seuss</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Downton Abbey, Duck Dynasty</TvShow>
+			<PetChild>Children: David (19), Madison (15), and Katelyn (8) 
+			&#xD;Pets: Sophie (German Shepherd), Whiskers (tabby&#160;cat)</PetChild>
+			<Song></Song>
+			<Travel>The beach</Travel>
+			<Movie>Lord of the Rings/The Hobbit</Movie>
+			<Hobby>Reading, gardening, hiking, bird watching, cooking/canning, spending time with&#160;family</Hobby>
+			<TimeOfYear>Fall and Christmas</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/santavenere.jpg</Picture>
+		<Thumbnail>images/thumbs/santavenere_lisa.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Lisa</FirstName>
+			<LastName>Santavenere</LastName>
+			<Role>Production Specialist</Role>
+			<Team>Presentations</Team>
+			<Nickname></Nickname>
+			<Hometown>Baltimore, Maryland</Hometown>
+			<College>Stratford Business School</College>
+		</Info>
+		<Quote>
+			<QuoteText>Nobody can bring you peace, but&#160;yourself.</QuoteText>
+			<QuoteAuthor>Ralph Waldo Emerson</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>It's a tie between The Brady Bunch and Full&#160;House</TvShow>
+			<PetChild>2 children: Tony 17, Jenna 14 and Emmy our yellow&#160;lab</PetChild>
+			<Song>This One's For the Girls - Martina McBride</Song>
+			<Travel>Deep Creek Lake, MD</Travel>
+			<Movie>Willy Wonka and The Chocolate Factory (original version with Gene&#160;Wilder)</Movie>
+			<Hobby>Spending time with family and&#160;friends</Hobby>
+			<TimeOfYear>Spring</TimeOfYear>
+		</Survey>		
+	</Employee>	
+	
+	<Employee>
+		<Picture>images/saoudi.jpg</Picture>
+		<Thumbnail>images/thumbs/saoudi_zouina.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Zouina</FirstName>
+			<LastName>Saoudi</LastName>
+			<Role>Senior Presentation Specialist</Role>
+			<Team>London</Team>
+			<Nickname></Nickname>
+			<Hometown>London</Hometown>
+			<College>Stendhal University (France)</College>
+		</Info>
+		<Quote>
+			<QuoteText>A girl should be two things: who and what she&#160;wants.</QuoteText>
+			<QuoteAuthor>Coco Chanel</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow></TvShow>
+			<PetChild></PetChild>
+			<Song>Somebody – Depeche Mode</Song>
+			<Travel>Lisbon</Travel>
+			<Movie>Night on Earth - Jim Jarmusch</Movie>
+			<Hobby>Traveling</Hobby>
+			<TimeOfYear>Spring</TimeOfYear>
+		</Survey>		
+	</Employee>	
+	
+	<Employee>
+		<Picture>images/sinyushkin.jpg</Picture>
+		<Thumbnail>images/thumbs/sinyushkin_petr.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Petr</FirstName>
+			<LastName>Sinyushkin</LastName>
+			<Role>New Media Specialist</Role>
+			<Team>NewMedia</Team>
+			<Nickname></Nickname>
+			<Hometown>Tomsk, Russia</Hometown>
+			<College>Tomsk State University, Russia</College>
+		</Info>
+		<Quote>
+			<QuoteText>All is the poison on the Earth and only dose make it&#160;medicine.</QuoteText>
+			<QuoteAuthor>Aristotle</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Real Boyz (Russian comedy show)</TvShow>
+			<PetChild>Have a cat, but want to have a dog, and a 2-year-old&#160;son</PetChild>
+			<Song>Friendship</Song>
+			<Travel>Europe</Travel>
+			<Movie>American Pie, Hitch</Movie>
+			<Hobby>Ballroom dancing, almost all types of&#160;sports</Hobby>
+			<TimeOfYear>Summer, Winter</TimeOfYear>
+		</Survey>		
+	</Employee>	
+	
+	<Employee>
+		<Picture>images/slater.jpg</Picture>
+		<Thumbnail>images/thumbs/slater_johnjoe.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>John-Joe</FirstName>
+			<LastName>Slater</LastName>
+			<Role>Presentation Specialist</Role>
+			<Team>London</Team>
+			<Nickname>JJ</Nickname>
+			<Hometown>Essex</Hometown>
+			<College>Santa Barbara City College</College>
+		</Info>
+		<Quote>
+			<QuoteText>You got an opportunity to make a dream become a reality&#8212;and when you do, you just got to take advantage of&#160;it.</QuoteText>
+			<QuoteAuthor>Eric Thomas</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>The Only Way is Essex</TvShow>
+			<PetChild>2 Dogs - Poppy &amp; Charlie</PetChild>
+			<Song>What Makes You Beautiful - One Direction</Song>
+			<Travel>Marbella, Spain</Travel>
+			<Movie>We Are Marshall</Movie>
+			<Hobby>Soccer, socializing, shopping</Hobby>
+			<TimeOfYear>Christmas</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/smithandy.jpg</Picture>
+		<Thumbnail>images/thumbs/smith_andy.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Andy</FirstName>
+			<LastName>Smith</LastName>
+			<Role>RPS Website Editor</Role>
+			<Team>WebContent</Team>
+			<Nickname></Nickname>
+			<Hometown>Woodstock, MD</Hometown>
+			<College>Towson State University</College>
+		</Info>
+		<Quote>
+			<QuoteText>It's just a flesh wound.</QuoteText>
+			<QuoteAuthor>Black Knight with no arms left after a battle</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Daily Show with Jon Stewart</TvShow>
+			<PetChild>Presently, none. I used to have a 6-foot boa constrictor named "Crusher." I had her for 19 years.</PetChild>
+			<Song>Live and Let Die</Song>
+			<Travel>Florida Keys and Colorado Rocky&#160;Mountains</Travel>
+			<Movie>Monty Python and the Holy Grail</Movie>
+			<Hobby>Birding, hawk watching, hiking,&#160;golf</Hobby>
+			<TimeOfYear>Spring and Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/sprague.jpg</Picture>
+		<Thumbnail>images/thumbs/sprague_allyson.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Allyson</FirstName>
+			<LastName>Sprague</LastName>
+			<Role>Presentation Specialist</Role>
+			<Team>Presentations</Team>
+			<Nickname>Ally, Big Red</Nickname>
+			<Hometown>Towson, MD</Hometown>
+			<College>Salisbury University</College>
+		</Info>
+		<Quote>
+			<QuoteText>Creativity is intelligence having&#160;fun.</QuoteText>
+			<QuoteAuthor>Albert Einstein</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Greys Anatomy</TvShow>
+			<PetChild></PetChild>
+			<Song>Spice Up Your Life - Spice&#160;Girls</Song>
+			<Travel>St. John, Virgin Islands</Travel>
+			<Movie>Little Mermaid, Harry Potter</Movie>
+			<Hobby>Gymnastics</Hobby>
+			<TimeOfYear>Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/stone.jpg</Picture>
+		<Thumbnail>images/thumbs/stone_andrew.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Andrew</FirstName>
+			<LastName>Stone</LastName>
+			<Role>Senior Kit Specialist</Role>
+			<Team>ProductionGarner</Team>
+			<Nickname>Twitch</Nickname>
+			<Hometown>Warrenton VA</Hometown>
+			<College>Washington College</College>
+		</Info>
+		<Quote>
+			<QuoteText>The world is indeed comic, but the joke is on&#160;mankind.</QuoteText>
+			<QuoteAuthor>H.P. Lovecraft</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Walking Dead</TvShow>
+			<PetChild>Cat "Luna"</PetChild>
+			<Song>Dunwich - Electric Wizard</Song>
+			<Travel>R'leyh</Travel>
+			<Movie>Shaun of the Dead</Movie>
+			<Hobby>Painting, music, sideshows, brewing</Hobby>
+			<TimeOfYear>Halloween</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/supik.jpg</Picture>
+		<Thumbnail>images/thumbs/supik_jean.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Jean</FirstName>
+			<LastName>Supik</LastName>
+			<Role>Marketing Services Specialist</Role>
+			<Team>Presentations</Team>
+			<Nickname></Nickname>
+			<Hometown>Baltimore</Hometown>
+			<College>Maryland Institute, College of Art</College>
+		</Info>
+		<Quote>
+			<QuoteText>Well, let me think. 'Lizzy' for every day. 'My pearl' for Sundays, and 'Goddess Divine,' but only on very special&#160;occasions.</QuoteText>
+			<QuoteAuthor>Keira Knightley</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Justified</TvShow>
+			<PetChild>Niece, Sienna</PetChild>
+			<Song>Rutti - Slowdive</Song>
+			<Travel>Anywhere out west or Tuscany</Travel>
+			<Movie>X-Men First Class</Movie>
+			<Hobby>Cooking, birding, hiking, sunsets, hot chocolate with a sweater, sleeping, 80's music, red wine and&#160;biscotti</Hobby>
+			<TimeOfYear>Spring and Fall</TimeOfYear>
+		</Survey>		
+	</Employee>
+	
+	<Employee>
+		<Picture>images/thompson.jpg</Picture>
+		<Thumbnail>images/thumbs/thompson_krystal.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Krystal</FirstName>
+			<LastName>Thompson</LastName>
+			<Role>Administrative Assistant</Role>
+			<Team>Administration</Team>
+			<Nickname></Nickname>
+			<Hometown>Rosedale, MD</Hometown>
+			<College>UMBC</College>
+		</Info>
+		<Quote>
+			<QuoteText>When we choose not to focus on what is missing from our lives, but are grateful
+			for the abundance that is present...we experience heaven on earth.</QuoteText>
+			<QuoteAuthor>Sarah Ban Breathnach</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Unfair question.  I can’t choose just one! 24, Almost Human, LOST, House, and Friends are my top five!</TvShow>
+			<PetChild>One cat (Cotton), no children</PetChild>
+			<Song>Hmmm, I don't have one. Guess I should work on that...</Song>
+			<Travel>Almost anywhere in Puerto Rico</Travel>
+			<Movie>Another unfair question. Anything Marvel or Star Trek.  “Fearless”, “The Dark Knight Rises”, and “Hitch” are chart toppers for me as well!</Movie>
+			<Hobby>Music, sports, cooking and&#160;baking</Hobby>
+			<TimeOfYear>Spring and Fall</TimeOfYear>
+		</Survey>
+	</Employee>
+	
+	<Employee>
+		<Picture>images/vanzandt.jpg</Picture>
+		<Thumbnail>images/thumbs/vanzandt_donny.jpg</Thumbnail>
+		<IsManager>Yes</IsManager>
+		<Info>
+			<FirstName>Donny</FirstName>
+			<LastName>van Zandt</LastName>
+			<Role>Marketing Services Supervisor</Role>
+			<Team>Management NewMedia</Team>
+			<Nickname></Nickname>
+			<Hometown>San Diego</Hometown>
+			<College>San Diego State University San Marcos</College>
+		</Info>
+		<Quote>
+			<QuoteText>Ever tried. Ever failed. No matter. Try&#160;again.&#160;Fail&#160;again.&#160;Fail better.</QuoteText>
+			<QuoteAuthor>Samuel Beckett</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>First Person</TvShow>
+			<PetChild>Neither. My house is eerily&#160;silent...</PetChild>
+			<Song>War Pigs - Black Sabbath</Song>
+			<Travel>Brussels, Belgium</Travel>
+			<Movie>Vernon Florida, Blade Runner, or Apocalypse Now, depending how I feel. I love documentaries, weird trashy flicks and big epics</Movie>
+			<Hobby>Recreating veg versions of my favorite Mexican dishes. Music, Film, board games. I want a dog</Hobby>
+			<TimeOfYear>The 5 days of nice weather we get every year are my favorite</TimeOfYear>
+		</Survey>
+	</Employee>
+	
+	<Employee>
+		<Picture>images/vassor.jpg</Picture>
+		<Thumbnail>images/thumbs/vassor_lisa.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Lisa</FirstName>
+			<LastName>Vassor</LastName>
+			<Role>Administrative Assistant</Role>
+			<Team>Administration</Team>
+			<Nickname>L or Lee</Nickname>
+			<Hometown>Baltimore</Hometown>
+			<College>Morgan State University</College>
+		</Info>
+		<Quote>
+			<QuoteText>Live each day to its fullest because tomorrow is not&#160;promised.</QuoteText>
+			<QuoteAuthor>L. Vassor</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Seinfeld reruns/Reality TV</TvShow>
+			<PetChild>Dog, Napoleon; Cat, Tegger; and 4 beautiful girls, Kyalah, Jai, Ikeela, and Morgan</PetChild>
+			<Song>Golden - Jill Scott</Song>
+			<Travel></Travel>
+			<Movie>Godfather Trilogy</Movie>
+			<Hobby>Reading, writing poetry, and spending quality time with family</Hobby>
+			<TimeOfYear>Thanksgiving &amp; Christmas</TimeOfYear>
+		</Survey>
+	</Employee>
+	
+	<Employee>
+		<Picture>images/vinje.jpg</Picture>
+		<Thumbnail>images/thumbs/vinje_katie.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Katie</FirstName>
+			<LastName>Vinje</LastName>
+			<Role>Marketing Services Specialist</Role>
+			<Team>ProductionGarner</Team>
+			<Nickname>Lynn</Nickname>
+			<Hometown>Eldersburg, MD</Hometown>
+			<College>Towson University</College>
+		</Info>
+		<Quote>
+			<QuoteText>If you cannot do great things, do small things in&#160;a&#160;great&#160;way.</QuoteText>
+			<QuoteAuthor>Napoleon Hill</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Big Bang Theory</TvShow>
+			<PetChild>Brooklyn (German Shepherd/Corgi mix)</PetChild>
+			<Song>Footloose</Song>
+			<Travel>California</Travel>
+			<Movie>Pearl Harbor</Movie>
+			<Hobby>Yoga, Cooking and Wine</Hobby>
+			<TimeOfYear>Summer</TimeOfYear>
+		</Survey>
+	</Employee>
+	
+	<Employee>
+		<Picture>images/walkerdan.jpg</Picture>
+		<Thumbnail>images/thumbs/walker_dan.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Dan</FirstName>
+			<LastName>Walker</LastName>
+			<Role>New Media Specialist</Role>
+			<Team>NewMedia</Team>
+			<Nickname>Walker, DW, Doctor Rock</Nickname>
+			<Hometown>Ronkonkoma, NY</Hometown>
+			<College>Loyola</College>
+		</Info>
+		<Quote>
+			<QuoteText>Listen, you're my children and I love you but you're all terrible at what you do here 
+			and I feel like I should tell you, I'd fire all of you if I could.</QuoteText>
+			<QuoteAuthor>Bob Belcher, Bob's Burgers</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>House of Cards</TvShow>
+			<PetChild></PetChild>
+			<Song>Ignition (Remix) by R. Kelly</Song>
+			<Travel>San Diego</Travel>
+			<Movie>Star Wars or Avengers</Movie>
+			<Hobby>Music (I play/sing in WAY TOO MANY bands!) and Comic books (Marvel and The Walking Dead)</Hobby>
+			<TimeOfYear>Spring</TimeOfYear>
+		</Survey>
+	</Employee>
+	
+	<Employee>
+		<Picture>images/walkersam.jpg</Picture>
+		<Thumbnail>images/thumbs/walker_sam.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Sam</FirstName>
+			<LastName>Walker</LastName>
+			<Role>Presentation Specialist, London</Role>
+			<Team>London</Team>
+			<Nickname>Manfy</Nickname>
+			<Hometown>Stevenage, England</Hometown>
+			<College>Sheffield Hallam</College>
+		</Info>
+		<Quote>
+			<QuoteText>Here's to alcohol, the cause of&#8212;and solution to&#8212;all of life's problems.</QuoteText>
+			<QuoteAuthor>Homer Simpson</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>An Idiot Abroad</TvShow>
+			<PetChild>Freddy the chinchilla and Hazel the rabbit</PetChild>
+			<Song>Always Look on the Bright Side of Life - Monty Python</Song>
+			<Travel>Anywhere new and exciting, with a backpack and a lonely planet.</Travel>
+			<Movie>Stand By Me</Movie>
+			<Hobby>Tennis, cooking, going to gigs, watching team GB at the Olympics!!!</Hobby>
+			<TimeOfYear>Our alleged summer</TimeOfYear>
+		</Survey>
+	</Employee>
+	
+	<Employee>
+		<Picture>images/wallace.jpg</Picture>
+		<Thumbnail>images/thumbs/wallace_terry.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Terry</FirstName>
+			<LastName>Wallace</LastName>
+			<Role>Web Content Specialist</Role>
+			<Team>WebContent</Team>
+			<Nickname></Nickname>
+			<Hometown>Brandywine, MD</Hometown>
+			<College>B.A. in Studio Art from University of Maryland, College Park, M.S. in Game Production from University of Advancing Technology</College>
+		</Info>
+		<Quote>
+			<QuoteText>Never regret. If it's good, it's wonderful. If it's bad, it's&#160;experience.</QuoteText>
+			<QuoteAuthor>Victoria Holt</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Big Brother &amp; The Simpsons</TvShow>
+			<PetChild>A little dog named Toby</PetChild>
+			<Song>Happy by Pharrell (for now)</Song>
+			<Travel>The Bahamas</Travel>
+			<Movie>Madagascar</Movie>
+			<Hobby>Video Games, Running, Gym, Art &amp; Design, Movies</Hobby>
+			<TimeOfYear>Between Spring and Summer - When it is not raining and weather is just perfect outside</TimeOfYear>
+		</Survey>
+	</Employee>
+	
+	<Employee>
+		<Picture>images/warren.jpg</Picture>
+		<Thumbnail>images/thumbs/warren_sam.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Sam</FirstName>
+			<LastName>Warren</LastName>
+			<Role>Presentation Specialist</Role>
+			<Team>ProductionGarner</Team>
+			<Nickname>Samotage, Samuel, Ampersam</Nickname>
+			<Hometown>Eldersburg, MD</Hometown>
+			<College>UMBC</College>
+		</Info>
+		<Quote>
+			<QuoteText>I shall not waste my days trying to prolong them. I shall use my time.</QuoteText>
+			<QuoteAuthor>Jack London</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Game of Thrones</TvShow>
+			<PetChild>A bearded dog named Max and a Mini Cooper named Miles</PetChild>
+			<Song>Raised by Wolves - Voxtrot</Song>
+			<Travel>Netherlands</Travel>
+			<Movie>Princess Mononoke</Movie>
+			<Hobby>Illustration, calligraphy/hand lettering, comics, nail art, jewelry design, travel</Hobby>
+			<TimeOfYear>Winter</TimeOfYear>
+		</Survey>
+	</Employee>
+	
+	<Employee>
+		<Picture>images/watson.jpg</Picture>
+		<Thumbnail>images/thumbs/watson_kristin.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Kristin</FirstName>
+			<LastName>Watson</LastName>
+			<Role>Administrative Assistant</Role>
+			<Team>Administration</Team>
+			<Nickname></Nickname>
+			<Hometown>Baltimore, MD</Hometown>
+			<College>CCBC Catonsville</College>
+		</Info>
+		<Quote>
+			<QuoteText>If you can't handle me at my worst, then you sure as hell don't deserve me at my best.</QuoteText>
+			<QuoteAuthor>Marilyn Monroe</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>The Killing</TvShow>
+			<PetChild>Palmer (pet) &amp; Logan (child)</PetChild>
+			<Song></Song>
+			<Travel>Punta Cana</Travel>
+			<Movie>Moonstruck</Movie>
+			<Hobby>Reading</Hobby>
+			<TimeOfYear>Summer</TimeOfYear>
+		</Survey>
+	</Employee>
+	
+	<Employee>
+		<Picture>images/weinlein.jpg</Picture>
+		<Thumbnail>images/thumbs/weinlein_fred.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Fred</FirstName>
+			<LastName>Weinlein</LastName>
+			<Role>Proofreading Coordinator</Role>
+			<Team>Proofreading</Team>
+			<Nickname></Nickname>
+			<Hometown>Philadelphia, PA</Hometown>
+			<College>Clarion University of PA</College>
+		</Info>
+		<Quote>
+			<QuoteText>I think that we're all mentally ill. Those of us outside the asylums only hide it a little better&#8212;and maybe not that much better after all.</QuoteText>
+			<QuoteAuthor>Stephen King</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>@midnight</TvShow>
+			<PetChild>3 kids: Evelyn, Millie, and George; 2 dogs: Bijou and Gus; 1 cat: Mia</PetChild>
+			<Song>Regret - New Order</Song>
+			<Travel>Walt Disney&#160;World</Travel>
+			<Movie>Blue Velvet</Movie>
+			<Hobby>Reading, video games</Hobby>
+			<TimeOfYear>Fall</TimeOfYear>
+		</Survey>
+	</Employee>
+	
+	<Employee>
+		<Picture>images/wilsonandrea.jpg</Picture>
+		<Thumbnail>images/thumbs/wilson_andrea.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Andrea</FirstName>
+			<LastName>Wilson</LastName>
+			<Role>Senior Marketing Services Specialist</Role>
+			<Team>Presentations</Team>
+			<Nickname></Nickname>
+			<Hometown>Baltimore</Hometown>
+			<College></College>
+		</Info>
+		<Quote>
+			<QuoteText>The distance between who I am and who I want to be is only separated by my actions and words.</QuoteText>
+			<QuoteAuthor>Anonymous</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Big Bang Theory</TvShow>
+			<PetChild>Cat named Pita</PetChild>
+			<Song>Fighter - Christina Aguilera</Song>
+			<Travel>Punta Cana, Dominican Republic</Travel>
+			<Movie>Pride and Prejudice</Movie>
+			<Hobby>Hiking, Food &amp; Health</Hobby>
+			<TimeOfYear>Fall/September</TimeOfYear>
+		</Survey>
+	</Employee>
+	
+	<Employee>
+		<Picture>images/wilsondarci.jpg</Picture>
+		<Thumbnail>images/thumbs/wilson_darci.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Darci</FirstName>
+			<LastName>Wilson</LastName>
+			<Role>Senior Proofreading Editor</Role>
+			<Team>Proofreading</Team>
+			<Nickname>DJ</Nickname>
+			<Hometown>York, Pennsylvania</Hometown>
+			<College>Salisbury State University</College>
+		</Info>
+		<Quote>
+			<QuoteText>Be confident Atreyu! Be confident!</QuoteText>
+			<QuoteAuthor>Bastian, The Neverending Story</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Game of Thrones or Downton&#160;Abbey</TvShow>
+			<PetChild></PetChild>
+			<Song>Send Me On My Way - Rusted Root</Song>
+			<Travel>Hawaii</Travel>
+			<Movie>Dirty Dancing</Movie>
+			<Hobby>Traveling, word finds, movie cast trivia</Hobby>
+			<TimeOfYear>Spring</TimeOfYear>
+		</Survey>
+	</Employee>
+	
+	<Employee>
+		<Picture>images/worozbyt.jpg</Picture>
+		<Thumbnail>images/thumbs/worozbyt_mike.jpg</Thumbnail>
+		<IsManager>No</IsManager>
+		<Info>
+			<FirstName>Michael</FirstName>
+			<LastName>Worozbyt</LastName>
+			<Role>Production Designer</Role>
+			<Team>ProductionDesign</Team>
+			<Nickname>Mike, Worz</Nickname>
+			<Hometown>Eldersburg, MD</Hometown>
+			<College>Villa Julie College</College>
+		</Info>
+		<Quote>
+			<QuoteText>I find your lack of faith disturbing.</QuoteText>
+			<QuoteAuthor>D. Vader</QuoteAuthor>
+		</Quote>
+		<Survey>
+			<TvShow>Archer, The Walking Dead</TvShow>
+			<PetChild>A daughter named Wynter and Cockapoo named Sui</PetChild>
+			<Song>Flowers on the Wall - The Statler Brothers</Song>
+			<Travel>Key West or Canada for fishing</Travel>
+			<Movie>Star Wars</Movie>
+			<Hobby>Lax, Mowing the Lawn, Yard work, Fixing stuff, Parenting, Photography</Hobby>
+			<TimeOfYear>Autumn</TimeOfYear>
+		</Survey>
+	</Employee>
+	
+</Staff>
